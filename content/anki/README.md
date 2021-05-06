@@ -1,7 +1,7 @@
 # Expand your Vocabulary
 
 Type of challenge: **learning** </br>
-Competency: [is able to practice and create vocabulary list](./evaluation.md) </br>
+Competency: [is able to practice and create vocabulary list using Anki](./evaluation.md) </br>
 Duration: **two hours** </br>
 Team challenge : **solo**
 
