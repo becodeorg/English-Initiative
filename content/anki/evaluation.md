@@ -6,7 +6,6 @@ This document lists criteria that **evaluate** your success in developing the **
 |:------------------|:-------------------------------------------------------------|:-------------|
 | **Effectiveness** | Anki **has been setup** and a **custom deck created**.       | low          |
 | **Relevance**     | The created deck **focuses on vocabulary**.                  | low          |
-|:------------------|:-------------------------------------------------------------|:-------------|
 | _Impact_          | An efficient vocabulary learning environment has been setup. | high         |
 
 The headers for the table above can be summarized as follow:
